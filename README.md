@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
   <img width="12%" align="center" src="app/resource/images/icon/二哈.png" alt="logo">
-</p>
+</p> -->
   <h1 align="center">
   Alpha Gobang Zero
 </h1>
@@ -35,7 +35,10 @@
 <img src="docs/screenshot/游戏界面.png" alt="游戏界面" width="70%"/>
 </div>
 
-
+## 主要參考
+Refer to the [git](https://github.com/zhiyiYo/Alpha-Gobang-Zero)
+Add another game program based on the referring code.
+Using the program train.py to train another model with more times of self-playing.
 
 ## Policy-Value Net
 * Network structure
@@ -64,7 +67,7 @@
 
     ```shell
     conda activate Alpha_Gobang_Zero
-    python game.py
+    python beta_gobang.py
     ```
 
 ## Train model
