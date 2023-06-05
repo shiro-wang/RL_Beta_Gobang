@@ -37,7 +37,7 @@
 
 ## 主要參考
 Refer to the [git](https://github.com/zhiyiYo/Alpha-Gobang-Zero)
-Add another game program based on the referring code.
+Add another game program (pygame) based on the referring code.
 Using the program train.py to train another model with more times of self-playing.
 
 ## Policy-Value Net
