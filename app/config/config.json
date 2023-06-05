@@ -1,0 +1,1 @@
+{"c_puct": 4, "is_use_gpu": true, "n_mcts_iters": 822, "is_human_first": true, "is_enable_acrylic": true, "model": "model/best_policy_value_net_6400.pth"}

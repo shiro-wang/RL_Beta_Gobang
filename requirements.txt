@@ -1,0 +1,7 @@
+numpy==1.19.5
+PyQt5==5.15.2
+PyQt5-sip==12.8.1
+pywin32==227
+# 若要執行遊戲環境
+# pywin32
+# qt5_applications
